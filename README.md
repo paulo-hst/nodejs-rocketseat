@@ -1,6 +1,6 @@
 <h1 align="center">NodeJS - Rocketseat Starter</h1>
 <h1 align="center">
-  <img alt="nodejs" title="nodejs" src="./app.jpg" width="400px"/>
+  <img alt="nodejs" title="nodejs" src="./app.png" width="400px"/>
 </h1>
 
 ## Objetivo
