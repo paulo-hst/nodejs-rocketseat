@@ -4,7 +4,7 @@
 </h1>
 
 ## Objetivo
-Curso introdutório de NodeJS da Rocketseat que apresenta suas funcionalidades e cria uma API REST do zero.
+Conteúdo e exercícios resolvidos do introdutório de NodeJS da Rocketseat que apresenta suas funcionalidades e cria uma API REST do zero.
 
 ## Tecnologias / Ferramentas / Bibliotecas
 - HTML5
